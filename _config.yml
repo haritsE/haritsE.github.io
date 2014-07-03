@@ -1,15 +1,15 @@
-title:            Site Title
-description:      Describe your website.
+title:            Harits Dev Blog
+description:      My blog about developing stuff.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://haritsE.github.io
+url:              
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Harits Elfahmi
+  avatar:         harits.jpg
+  bio:            "I code web apps, mobile apps, and game."
+  email:          adilelfahmi [at] gmail [dot] com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
