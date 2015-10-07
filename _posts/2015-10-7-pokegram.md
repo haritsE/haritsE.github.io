@@ -6,6 +6,7 @@ tags: [pokemon, telegram]
 comments: false
 ---
 
-Testtttt desss
+Telegram Bot API + PokeAPI + Firebase API + Lumen + Heroku = @PokeGramBot, Messenger based "Pokemon" Game in Telegram :smile:
+Try it here: https://telegram.me/PokeGramBot
 ~           
 ~           
